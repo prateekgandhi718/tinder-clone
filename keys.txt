@@ -1,0 +1,19 @@
+C:\Users\User\Documents\React Native\tinder-2-yt>expo fetch:android:keystore
+Accessing credentials for prateekgandhi718 in project tinder-2-yt
+Saving Keystore to C:\Users\User\Documents\React Native\tinder-2-yt\tinder-2-yt.jks
+Keystore credentials
+  Keystore password: 3910c9b2d8fb46ffa7a8cf6457c48eb4
+  Key alias:         QHByYXRlZWtnYW5kaGk3MTgvdGluZGVyLTIteXQ=
+  Key password:      44f292826d724a0f97a34da95454a829
+
+  Path to Keystore:  C:\Users\User\Documents\React Native\tinder-2-yt\tinder-2-yt.jks
+
+
+C:\Users\User\Documents\React Native\tinder-2-yt>expo fetch:android:hashes
+Accessing credentials for prateekgandhi718 in project tinder-2-yt
+Google Certificate Fingerprint:     80:BD:FD:F3:47:DE:43:F3:1D:2A:50:0A:21:38:95:90:8E:3B:21:91
+Google Certificate Hash (SHA-1):    80BDFDF347DE43F31D2A500A213895908E3B2191
+Google Certificate Hash (SHA-256):  DEE3B12B12FEFB53C2610FF5D01CA8053EC16237E4760F7406F0C10739E4D2D8
+Facebook Key Hash:                  gL3980feQ/MdKlAKITiVkI47IZE=
+
+Note: if you are using Google Play signing, this app will be signed with a different key after publishing to the store, and you'll need to use the hashes displayed in the Google Play console.
